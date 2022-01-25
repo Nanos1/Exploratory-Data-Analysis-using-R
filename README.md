@@ -1,5 +1,4 @@
 # Exploratory-Data-Analysis-using-R
-Exploratory Data Analysis using R
 The purpose of this paper is to research and analyze covid19_vaccine dataset which contains a
 daily summary of the COVID-19 vaccination by country and province. The raw data is being
 pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU
